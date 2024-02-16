@@ -1,0 +1,13 @@
+{
+  "name": "libphonenumberjs_health24",
+  "homepage": "https://github.com/Health24life/libphonenumberjs_h24",
+  "_release": "890cc7aab2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "890cc7aab29c62d1b02716ef2f100785bc158cf5"
+  },
+  "_source": "https://github.com/Health24life/libphonenumberjs_h24.git",
+  "_target": "*",
+  "_originalSource": "git+https://github.com/Health24life/libphonenumberjs_h24.git"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "libphonenumberjs_health24",
+  "version": "1.0.0",
+  "description": "libphonenumberjs build for h24 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Health24life/libphonenumberjs_h24.git"
+  },
+  "keywords": [
+    "phone",
+    "number"
+  ],
+  "author": "vshaveyko@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Health24life/libphonenumberjs_h24/issues"
+  },
+  "homepage": "https://github.com/Health24life/libphonenumberjs_h24#readme"
+}
